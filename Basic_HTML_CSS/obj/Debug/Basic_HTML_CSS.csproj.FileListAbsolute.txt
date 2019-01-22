@@ -1,0 +1,6 @@
+D:\HUUNHAT\Learning_Web\FontEnd_Basic\Basic_HTML_CSS\Basic_HTML_CSS\bin\Basic_HTML_CSS.dll.config
+D:\HUUNHAT\Learning_Web\FontEnd_Basic\Basic_HTML_CSS\Basic_HTML_CSS\bin\Basic_HTML_CSS.dll
+D:\HUUNHAT\Learning_Web\FontEnd_Basic\Basic_HTML_CSS\Basic_HTML_CSS\bin\Basic_HTML_CSS.pdb
+D:\HUUNHAT\Learning_Web\FontEnd_Basic\Basic_HTML_CSS\Basic_HTML_CSS\obj\Debug\Basic_HTML_CSS.csprojResolveAssemblyReference.cache
+D:\HUUNHAT\Learning_Web\FontEnd_Basic\Basic_HTML_CSS\Basic_HTML_CSS\obj\Debug\Basic_HTML_CSS.dll
+D:\HUUNHAT\Learning_Web\FontEnd_Basic\Basic_HTML_CSS\Basic_HTML_CSS\obj\Debug\Basic_HTML_CSS.pdb
